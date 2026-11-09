@@ -1,8 +1,12 @@
 ## Hi there 👋
 
+Philip L. Uy
+
+Software developer learning to use AI for coding.
+
+You can reach me at philip.uy@dlsu.edu.ph
 <!--
 **uyphilipling-dlsu/uyphilipling-dlsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
